@@ -1,13 +1,28 @@
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=D93A7C&center=true&multiline=true&width=600&height=100&lines=Ol%C3%A1!!+Eu+me+chamo+Taila+Nascimento%2C;eu+sou+estudante+de+Front+End!)](https://git.io/typing-svg) 
+
+</div>
+
+
+<div align="center">
+
+<img align="center" alt="Taila" height="250" style="border-radius:50px;"  src="imagen.png">
+
+</div> <br>
+
+
+
+- 🙋‍♀️ Tenho 26 anos
+- 👩‍💻 Estudante de desenvolvimento Web na Laboratória Brasil -  [ < LAB > ](https://pages.github.com/)
+- 👩‍🎓 Formada em Rede de Computadores. 
+- 🌱 HTLM5 | CSS3 | Javascript | Node.js | Jest
+  
+  <br>
+
 
 
 <div align="center">
