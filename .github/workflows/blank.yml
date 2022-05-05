@@ -14,13 +14,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+          contents: write
+          packages: write
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
-        with:
-          persist-credentials: false 
-          fetch-depth: 0
+        
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
