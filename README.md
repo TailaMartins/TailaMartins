@@ -30,8 +30,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TailaMartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true")
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TailaMartins&theme=radical)](https://git.io/streak-stats)
-  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TailaMartins&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TailaMartins" width="495"/></p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TailaMartins&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   
 </div>
