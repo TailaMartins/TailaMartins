@@ -31,7 +31,8 @@
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TailaMartins&theme=radical)](https://git.io/streak-stats)
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TailaMartins&layout=compact&theme=radical&include_all_commits=true&count_private=true)](https://github.com/TailaMartins/github-readme-stats)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TailaMartins&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TailaMartins" width="495"/></p>
+
   
 </div>
 
