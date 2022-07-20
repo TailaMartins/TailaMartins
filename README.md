@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img align="center" alt="Taila" height="250" style="border-radius:50px;"  src="imagen.png">
+<img align="center" alt="Taila" height="200" style="border-radius:50px;"  src="imagen.png">
 
 </div> <br>
 
