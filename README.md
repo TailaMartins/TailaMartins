@@ -1,12 +1,8 @@
+<div align="center">
 
-
-
-<div align="center"> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=D93A7C&center=true&multiline=true&width=600&height=100&lines=Ol%C3%A1!!+Eu+me+chamo+Taila+Nascimento%2C;eu+sou+estudante+de+Front+End!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=D93A7C&center=true&multiline=true&width=600&height=100&lines=Ol%C3%A1!!+Eu+me+chamo+Taila+Nascimento%2C;eu+sou+estudante+de+Front+End!)](https://git.io/typing-svg)
 
 </div>
-
 
 <div align="center">
 
@@ -14,37 +10,35 @@
 
 </div> <br>
 
-
-
 - 🙋‍♀️ Tenho 26 anos
-- 👩‍💻 Estudante de desenvolvimento Web na Laboratória Brasil -  [ < LAB > ](https://pages.github.com/)
-- 👩‍🎓 Formada em Rede de Computadores. 
+- 👩‍💻 Estudante de desenvolvimento Web na Laboratória Brasil - [ < LAB > ](https://pages.github.com/)
+- 👩‍🎓 Formada em Rede de Computadores.
 - 🌱 HTLM5 | CSS3 | Javascript | Node.js | Jest
-  
+
   <br>
-
-
 
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TailaMartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true")
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TailaMartins&theme=radical)](https://git.io/streak-stats)
- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TailaMartins&theme=radical)](https://git.io/streak-stats)
 
-  
 </div>
 
 <div style="display: inline_block" align="center"><br>
   <h2> Ferramentas Utilizadas </h2>
   <img align="center" alt="Taila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Taila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Taila-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Taila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Taila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Taila-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Taila-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Taila-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Taila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Taila-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Taila-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Taila-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Taila-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Taila-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Taila-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img align="center" alt="Taila-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 </div>
   
@@ -57,28 +51,4 @@
   
 </div>
 
- ![snake gif](https://github.com/TailaMartins/TailaMartins/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![snake gif](https://github.com/TailaMartins/TailaMartins/blob/output/github-contribution-grid-snake.svg)
