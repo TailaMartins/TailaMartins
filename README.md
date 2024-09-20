@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=D93A7C&center=true&multiline=true&width=600&height=100&lines=Ol%C3%A1!!+Eu+me+chamo+Taila+Nascimento%2C;eu+sou+estudante+de+Front+End!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=D93A7C&center=true&multiline=true&width=600&height=100&lines=Ol%C3%A1!!+Eu+me+chamo+Taila+Nascimento%2C;eu+sou+estudante+de+engenharia+de+Software!)](https://git.io/typing-svg)
 
 </div>
 
