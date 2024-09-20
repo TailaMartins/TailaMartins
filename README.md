@@ -4,16 +4,12 @@
 
 </div>
 
-<div align="center">
+<br>
 
-<img align="center" alt="Taila" height="200" style="border-radius:50px;"  src="imagen.png">
-
-</div> <br>
-
-- 🙋‍♀️ Tenho 26 anos
-- 👩‍💻 Estudante de desenvolvimento Web na Laboratória Brasil - [ < LAB > ](https://pages.github.com/)
+- 🙋‍♀️ Tenho 28 anos
+- 👩‍💻 Estudante de Pós-graduação Puc Minas
 - 👩‍🎓 Formada em Rede de Computadores.
-- 🌱 HTLM5 | CSS3 | Javascript | Node.js | Jest
+- 🌱 HTLM5 | CSS3 | Javascript | Node.js | Jest | Angular | jasmine | Aws
 
   <br>
 
